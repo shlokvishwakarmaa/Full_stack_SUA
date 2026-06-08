@@ -1,1 +1,458 @@
 
+C:\Users\hp>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 463B-D231
+
+ Directory of C:\Users\hp
+
+2026-06-04  14:37    <DIR>          .
+2025-01-25  18:32    <DIR>          ..
+2025-02-23  18:24             6,579 -1.14-windows.xml
+2024-11-25  16:47    <DIR>          .cache
+2025-07-22  22:45    <DIR>          .config
+2026-03-16  12:15    <DIR>          .copilot
+2026-03-14  23:45    <DIR>          .ghcp-appmod
+2025-11-23  23:11               188 .gitconfig
+2025-06-22  20:21    <DIR>          .insomniac
+2024-11-15  23:58    <DIR>          .ms-ad
+2025-06-21  00:24    <DIR>          .redhat
+2024-11-18  11:12    <DIR>          .vscode
+2026-05-26  18:34    <DIR>          .vscode-shared
+2025-07-29  23:16               372 add 2 no.c
+2025-08-01  18:33               101 add 2 no.cpp
+2024-11-19  02:11    <DIR>          ansel
+2025-11-23  22:59             4,236 bfs1.py
+2025-11-23  23:04             4,236 cafe.python.txt
+2025-11-23  23:35             4,236 Cafeshop.py
+2025-01-26  12:21    <DIR>          Contacts
+2026-02-15  20:18    <DIR>          CrossDevice
+2025-09-01  23:41               763 dfs1.py
+2026-06-04  14:39                 0 dir
+2024-12-11  17:43    <DIR>          Documents
+2026-06-04  14:28    <DIR>          Downloads
+2026-04-22  23:31             3,246 expense_tracker.py
+2025-01-26  12:21    <DIR>          Favorites
+2025-12-03  20:03             1,143 first.html
+2025-06-11  00:32               137 hello1.c
+2025-06-11  00:30            40,764 hello1.exe
+2025-06-11  00:33               149 hello2.c
+2025-06-11  00:34            40,851 hello2.exe
+2025-09-11  18:25               632 hotelmenu.py
+2025-12-03  20:16             1,073 index.css
+2025-12-03  20:23             1,443 index.html
+2025-08-03  13:59               110 JAVA1.java
+2025-09-11  18:35             2,021 lb.c
+2025-09-11  18:32            41,448 lb.exe
+2026-05-26  22:18                82 learn.py
+2025-10-19  23:30                86 linkdlist.cpp
+2025-01-26  12:21    <DIR>          Links
+2025-01-18  21:32           653,325 mahakumbh certificate patnaik.jpg
+2025-01-26  12:21    <DIR>          Music
+2026-03-28  01:48    <DIR>          OneDrive
+2025-08-08  21:07               460 project1.py
+2025-08-14  01:16             3,336 pythonpgm.py
+2025-01-26  12:21    <DIR>          Saved Games
+2025-01-26  12:21    <DIR>          Searches
+2025-12-03  20:03               977 second.css
+2025-10-19  23:27               710 sks.cpp
+2025-09-27  19:41            45,556 sks.exe
+2025-08-03  14:00               127 sks.java
+2025-11-23  23:42             3,547 Snake.py
+2025-08-05  00:33               114 tempCodeRunnerFile.py
+2026-06-04  14:37    <DIR>          test
+2025-12-03  20:17             2,364 third.js
+2025-12-03  20:04                 0 third.jss.txt
+2024-11-15  22:48               420 This PC - Shortcut.lnk
+2026-03-30  22:20    <DIR>          Videos
+2025-01-10  03:05           209,423 WhatsApp Image 2025-01-10 at 03.05.26_c340ca84.jpg
+2026-03-18  12:18               662 xyz.py
+              37 File(s)      1,074,917 bytes
+              24 Dir(s)  51,261,952,000 bytes free
+
+C:\Users\hp>md TEXT
+
+C:\Users\hp>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 463B-D231
+
+ Directory of C:\Users\hp
+
+2026-06-04  14:41    <DIR>          .
+2025-01-25  18:32    <DIR>          ..
+2025-02-23  18:24             6,579 -1.14-windows.xml
+2024-11-25  16:47    <DIR>          .cache
+2025-07-22  22:45    <DIR>          .config
+2026-03-16  12:15    <DIR>          .copilot
+2026-03-14  23:45    <DIR>          .ghcp-appmod
+2025-11-23  23:11               188 .gitconfig
+2025-06-22  20:21    <DIR>          .insomniac
+2024-11-15  23:58    <DIR>          .ms-ad
+2025-06-21  00:24    <DIR>          .redhat
+2024-11-18  11:12    <DIR>          .vscode
+2026-05-26  18:34    <DIR>          .vscode-shared
+2025-07-29  23:16               372 add 2 no.c
+2025-08-01  18:33               101 add 2 no.cpp
+2024-11-19  02:11    <DIR>          ansel
+2025-11-23  22:59             4,236 bfs1.py
+2025-11-23  23:04             4,236 cafe.python.txt
+2025-11-23  23:35             4,236 Cafeshop.py
+2025-01-26  12:21    <DIR>          Contacts
+2026-02-15  20:18    <DIR>          CrossDevice
+2025-09-01  23:41               763 dfs1.py
+2026-06-04  14:39                 0 dir
+2024-12-11  17:43    <DIR>          Documents
+2026-06-04  14:28    <DIR>          Downloads
+2026-04-22  23:31             3,246 expense_tracker.py
+2025-01-26  12:21    <DIR>          Favorites
+2025-12-03  20:03             1,143 first.html
+2025-06-11  00:32               137 hello1.c
+2025-06-11  00:30            40,764 hello1.exe
+2025-06-11  00:33               149 hello2.c
+2025-06-11  00:34            40,851 hello2.exe
+2025-09-11  18:25               632 hotelmenu.py
+2025-12-03  20:16             1,073 index.css
+2025-12-03  20:23             1,443 index.html
+2025-08-03  13:59               110 JAVA1.java
+2025-09-11  18:35             2,021 lb.c
+2025-09-11  18:32            41,448 lb.exe
+2026-05-26  22:18                82 learn.py
+2025-10-19  23:30                86 linkdlist.cpp
+2025-01-26  12:21    <DIR>          Links
+2025-01-18  21:32           653,325 mahakumbh certificate patnaik.jpg
+2025-01-26  12:21    <DIR>          Music
+2026-03-28  01:48    <DIR>          OneDrive
+2025-08-08  21:07               460 project1.py
+2025-08-14  01:16             3,336 pythonpgm.py
+2025-01-26  12:21    <DIR>          Saved Games
+2025-01-26  12:21    <DIR>          Searches
+2025-12-03  20:03               977 second.css
+2025-10-19  23:27               710 sks.cpp
+2025-09-27  19:41            45,556 sks.exe
+2025-08-03  14:00               127 sks.java
+2025-11-23  23:42             3,547 Snake.py
+2025-08-05  00:33               114 tempCodeRunnerFile.py
+2026-06-04  14:37    <DIR>          test
+2026-06-04  14:41    <DIR>          TEXT
+2025-12-03  20:17             2,364 third.js
+2025-12-03  20:04                 0 third.jss.txt
+2024-11-15  22:48               420 This PC - Shortcut.lnk
+2026-03-30  22:20    <DIR>          Videos
+2025-01-10  03:05           209,423 WhatsApp Image 2025-01-10 at 03.05.26_c340ca84.jpg
+2026-03-18  12:18               662 xyz.py
+              37 File(s)      1,074,917 bytes
+              25 Dir(s)  51,261,829,120 bytes free
+
+C:\Users\hp>rmdir TEXT
+
+C:\Users\hp>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 463B-D231
+
+ Directory of C:\Users\hp
+
+2026-06-04  14:41    <DIR>          .
+2025-01-25  18:32    <DIR>          ..
+2025-02-23  18:24             6,579 -1.14-windows.xml
+2024-11-25  16:47    <DIR>          .cache
+2025-07-22  22:45    <DIR>          .config
+2026-03-16  12:15    <DIR>          .copilot
+2026-03-14  23:45    <DIR>          .ghcp-appmod
+2025-11-23  23:11               188 .gitconfig
+2025-06-22  20:21    <DIR>          .insomniac
+2024-11-15  23:58    <DIR>          .ms-ad
+2025-06-21  00:24    <DIR>          .redhat
+2024-11-18  11:12    <DIR>          .vscode
+2026-05-26  18:34    <DIR>          .vscode-shared
+2025-07-29  23:16               372 add 2 no.c
+2025-08-01  18:33               101 add 2 no.cpp
+2024-11-19  02:11    <DIR>          ansel
+2025-11-23  22:59             4,236 bfs1.py
+2025-11-23  23:04             4,236 cafe.python.txt
+2025-11-23  23:35             4,236 Cafeshop.py
+2025-01-26  12:21    <DIR>          Contacts
+2026-02-15  20:18    <DIR>          CrossDevice
+2025-09-01  23:41               763 dfs1.py
+2026-06-04  14:39                 0 dir
+2024-12-11  17:43    <DIR>          Documents
+2026-06-04  14:28    <DIR>          Downloads
+2026-04-22  23:31             3,246 expense_tracker.py
+2025-01-26  12:21    <DIR>          Favorites
+2025-12-03  20:03             1,143 first.html
+2025-06-11  00:32               137 hello1.c
+2025-06-11  00:30            40,764 hello1.exe
+2025-06-11  00:33               149 hello2.c
+2025-06-11  00:34            40,851 hello2.exe
+2025-09-11  18:25               632 hotelmenu.py
+2025-12-03  20:16             1,073 index.css
+2025-12-03  20:23             1,443 index.html
+2025-08-03  13:59               110 JAVA1.java
+2025-09-11  18:35             2,021 lb.c
+2025-09-11  18:32            41,448 lb.exe
+2026-05-26  22:18                82 learn.py
+2025-10-19  23:30                86 linkdlist.cpp
+2025-01-26  12:21    <DIR>          Links
+2025-01-18  21:32           653,325 mahakumbh certificate patnaik.jpg
+2025-01-26  12:21    <DIR>          Music
+2026-03-28  01:48    <DIR>          OneDrive
+2025-08-08  21:07               460 project1.py
+2025-08-14  01:16             3,336 pythonpgm.py
+2025-01-26  12:21    <DIR>          Saved Games
+2025-01-26  12:21    <DIR>          Searches
+2025-12-03  20:03               977 second.css
+2025-10-19  23:27               710 sks.cpp
+2025-09-27  19:41            45,556 sks.exe
+2025-08-03  14:00               127 sks.java
+2025-11-23  23:42             3,547 Snake.py
+2025-08-05  00:33               114 tempCodeRunnerFile.py
+2026-06-04  14:37    <DIR>          test
+2025-12-03  20:17             2,364 third.js
+2025-12-03  20:04                 0 third.jss.txt
+2024-11-15  22:48               420 This PC - Shortcut.lnk
+2026-03-30  22:20    <DIR>          Videos
+2025-01-10  03:05           209,423 WhatsApp Image 2025-01-10 at 03.05.26_c340ca84.jpg
+2026-03-18  12:18               662 xyz.py
+              37 File(s)      1,074,917 bytes
+              24 Dir(s)  51,261,788,160 bytes free
+
+C:\Users\hp>echo Hello> test.text
+
+C:\Users\hp>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 463B-D231
+
+ Directory of C:\Users\hp
+
+2026-06-04  14:42    <DIR>          .
+2025-01-25  18:32    <DIR>          ..
+2025-02-23  18:24             6,579 -1.14-windows.xml
+2024-11-25  16:47    <DIR>          .cache
+2025-07-22  22:45    <DIR>          .config
+2026-03-16  12:15    <DIR>          .copilot
+2026-03-14  23:45    <DIR>          .ghcp-appmod
+2025-11-23  23:11               188 .gitconfig
+2025-06-22  20:21    <DIR>          .insomniac
+2024-11-15  23:58    <DIR>          .ms-ad
+2025-06-21  00:24    <DIR>          .redhat
+2024-11-18  11:12    <DIR>          .vscode
+2026-05-26  18:34    <DIR>          .vscode-shared
+2025-07-29  23:16               372 add 2 no.c
+2025-08-01  18:33               101 add 2 no.cpp
+2024-11-19  02:11    <DIR>          ansel
+2025-11-23  22:59             4,236 bfs1.py
+2025-11-23  23:04             4,236 cafe.python.txt
+2025-11-23  23:35             4,236 Cafeshop.py
+2025-01-26  12:21    <DIR>          Contacts
+2026-02-15  20:18    <DIR>          CrossDevice
+2025-09-01  23:41               763 dfs1.py
+2026-06-04  14:39                 0 dir
+2024-12-11  17:43    <DIR>          Documents
+2026-06-04  14:28    <DIR>          Downloads
+2026-04-22  23:31             3,246 expense_tracker.py
+2025-01-26  12:21    <DIR>          Favorites
+2025-12-03  20:03             1,143 first.html
+2025-06-11  00:32               137 hello1.c
+2025-06-11  00:30            40,764 hello1.exe
+2025-06-11  00:33               149 hello2.c
+2025-06-11  00:34            40,851 hello2.exe
+2025-09-11  18:25               632 hotelmenu.py
+2025-12-03  20:16             1,073 index.css
+2025-12-03  20:23             1,443 index.html
+2025-08-03  13:59               110 JAVA1.java
+2025-09-11  18:35             2,021 lb.c
+2025-09-11  18:32            41,448 lb.exe
+2026-05-26  22:18                82 learn.py
+2025-10-19  23:30                86 linkdlist.cpp
+2025-01-26  12:21    <DIR>          Links
+2025-01-18  21:32           653,325 mahakumbh certificate patnaik.jpg
+2025-01-26  12:21    <DIR>          Music
+2026-03-28  01:48    <DIR>          OneDrive
+2025-08-08  21:07               460 project1.py
+2025-08-14  01:16             3,336 pythonpgm.py
+2025-01-26  12:21    <DIR>          Saved Games
+2025-01-26  12:21    <DIR>          Searches
+2025-12-03  20:03               977 second.css
+2025-10-19  23:27               710 sks.cpp
+2025-09-27  19:41            45,556 sks.exe
+2025-08-03  14:00               127 sks.java
+2025-11-23  23:42             3,547 Snake.py
+2025-08-05  00:33               114 tempCodeRunnerFile.py
+2026-06-04  14:37    <DIR>          test
+2026-06-04  14:42                 7 test.text
+2025-12-03  20:17             2,364 third.js
+2025-12-03  20:04                 0 third.jss.txt
+2024-11-15  22:48               420 This PC - Shortcut.lnk
+2026-03-30  22:20    <DIR>          Videos
+2025-01-10  03:05           209,423 WhatsApp Image 2025-01-10 at 03.05.26_c340ca84.jpg
+2026-03-18  12:18               662 xyz.py
+              38 File(s)      1,074,924 bytes
+              24 Dir(s)  51,261,718,528 bytes free
+
+C:\Users\hp>cd
+C:\Users\hp
+
+
+C:\Users\hp>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 463B-D231
+
+ Directory of C:\Users\hp
+
+2026-06-04  14:46    <DIR>          .
+2025-01-25  18:32    <DIR>          ..
+2025-02-23  18:24             6,579 -1.14-windows.xml
+2024-11-25  16:47    <DIR>          .cache
+2025-07-22  22:45    <DIR>          .config
+2026-03-16  12:15    <DIR>          .copilot
+2026-03-14  23:45    <DIR>          .ghcp-appmod
+2025-11-23  23:11               188 .gitconfig
+2025-06-22  20:21    <DIR>          .insomniac
+2024-11-15  23:58    <DIR>          .ms-ad
+2025-06-21  00:24    <DIR>          .redhat
+2024-11-18  11:12    <DIR>          .vscode
+2026-05-26  18:34    <DIR>          .vscode-shared
+2025-07-29  23:16               372 add 2 no.c
+2025-08-01  18:33               101 add 2 no.cpp
+2024-11-19  02:11    <DIR>          ansel
+2025-11-23  22:59             4,236 bfs1.py
+2025-11-23  23:04             4,236 cafe.python.txt
+2025-11-23  23:35             4,236 Cafeshop.py
+2025-01-26  12:21    <DIR>          Contacts
+2026-02-15  20:18    <DIR>          CrossDevice
+2025-09-01  23:41               763 dfs1.py
+2026-06-04  14:39                 0 dir
+2024-12-11  17:43    <DIR>          Documents
+2026-06-04  14:28    <DIR>          Downloads
+2026-04-22  23:31             3,246 expense_tracker.py
+2025-01-26  12:21    <DIR>          Favorites
+2025-12-03  20:03             1,143 first.html
+2025-06-11  00:32               137 hello1.c
+2025-06-11  00:30            40,764 hello1.exe
+2025-06-11  00:33               149 hello2.c
+2025-06-11  00:34            40,851 hello2.exe
+2025-09-11  18:25               632 hotelmenu.py
+2025-12-03  20:16             1,073 index.css
+2025-12-03  20:23             1,443 index.html
+2025-08-03  13:59               110 JAVA1.java
+2025-09-11  18:35             2,021 lb.c
+2025-09-11  18:32            41,448 lb.exe
+2026-05-26  22:18                82 learn.py
+2025-10-19  23:30                86 linkdlist.cpp
+2025-01-26  12:21    <DIR>          Links
+2025-01-18  21:32           653,325 mahakumbh certificate patnaik.jpg
+2025-01-26  12:21    <DIR>          Music
+2026-03-28  01:48    <DIR>          OneDrive
+2025-08-08  21:07               460 project1.py
+2025-08-14  01:16             3,336 pythonpgm.py
+2025-01-26  12:21    <DIR>          Saved Games
+2025-01-26  12:21    <DIR>          Searches
+2025-12-03  20:03               977 second.css
+2025-10-19  23:27               710 sks.cpp
+2025-09-27  19:41            45,556 sks.exe
+2025-08-03  14:00               127 sks.java
+2025-11-23  23:42             3,547 Snake.py
+2025-08-05  00:33               114 tempCodeRunnerFile.py
+2026-06-04  14:37    <DIR>          test
+2025-12-03  20:17             2,364 third.js
+2025-12-03  20:04                 0 third.jss.txt
+2024-11-15  22:48               420 This PC - Shortcut.lnk
+2026-03-30  22:20    <DIR>          Videos
+2025-01-10  03:05           209,423 WhatsApp Image 2025-01-10 at 03.05.26_c340ca84.jpg
+2026-03-18  12:18               662 xyz.py
+              37 File(s)      1,074,917 bytes
+              24 Dir(s)  51,262,001,152 bytes free
+
+C:\Users\hp> md "Sharda University Agra"
+
+C:\Users\hp>cd "Sharda University Agra"
+
+C:\Users\hp\Sharda University Agra>md "Unit 1" "Unit 2" "Unit 3" "Unit 4"
+
+C:\Users\hp\Sharda University Agra>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 463B-D231
+
+ Directory of C:\Users\hp\Sharda University Agra
+
+2026-06-04  15:19    <DIR>          .
+2026-06-04  15:17    <DIR>          ..
+2026-06-04  15:19                 0 notes.txt
+2026-06-04  15:19                 0 spritn1.txt
+2026-06-04  15:19    <DIR>          Unit 1
+2026-06-04  15:19    <DIR>          Unit 2
+2026-06-04  15:19    <DIR>          Unit 3
+2026-06-04  15:19    <DIR>          Unit 4
+               2 File(s)              0 bytes
+               6 Dir(s)  51,564,658,688 bytes free
+
+C:\Users\hp\Sharda University Agra>
+C:\Users\hp\Sharda University Agra>type nul> :"Unit 1\Sprint1.txt"
+The filename, directory name, or volume label syntax is incorrect.
+
+C:\Users\hp\Sharda University Agra>echo 1> "Unit 1\sprint1.txt
+
+C:\Users\hp\Sharda University Agra>echo 2> "Unit 2\sprint2.txt
+ECHO is on.
+
+C:\Users\hp\Sharda University Agra>echo 3
+3
+
+C:\Users\hp\Sharda University Agra>echo 3> "Unit 3\sprint3.txt
+ECHO is on.
+
+C:\Users\hp\Sharda University Agra>echo 4> "Unit 4\sprint4.txt
+ECHO is on.
+
+C:\Users\hp\Sharda University Agra>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 463B-D231
+
+ Directory of C:\Users\hp\Sharda University Agra
+
+2026-06-04  15:19    <DIR>          .
+2026-06-04  15:17    <DIR>          ..
+2026-06-04  15:19                 0 notes.txt
+2026-06-04  15:19                 0 spritn1.txt
+2026-06-04  15:22    <DIR>          Unit 1
+2026-06-04  15:22    <DIR>          Unit 2
+2026-06-04  15:23    <DIR>          Unit 3
+2026-06-04  15:23    <DIR>          Unit 4
+               2 File(s)              0 bytes
+               6 Dir(s)  51,564,892,160 bytes free
+
+C:\Users\hp\Sharda University Agra>tree /f
+Folder PATH listing for volume Windows
+Volume serial number is 0000000E 463B:D231
+C:.
+│   notes.txt
+│   spritn1.txt
+│
+├───Unit 1
+│       sprint1.txt
+│
+├───Unit 2
+│       sprint2.txt
+│
+├───Unit 3
+│       sprint3.txt
+│
+└───Unit 4
+        sprint4.txt
+
+
+C:\Users\hp\Sharda University Agra>dir
+ Volume in drive C is Windows
+ Volume Serial Number is 463B-D231
+
+ Directory of C:\Users\hp\Sharda University Agra
+
+2026-06-04  15:19    <DIR>          .
+2026-06-04  15:17    <DIR>          ..
+2026-06-04  15:19                 0 notes.txt
+2026-06-04  15:19                 0 spritn1.txt
+2026-06-04  15:22    <DIR>          Unit 1
+2026-06-04  15:22    <DIR>          Unit 2
+2026-06-04  15:23    <DIR>          Unit 3
+2026-06-04  15:23    <DIR>          Unit 4
+               2 File(s)              0 bytes
+               6 Dir(s)  51,564,871,680 bytes free
+
